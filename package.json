@@ -1,0 +1,20 @@
+{
+  "name": "typescriptnapratica",
+  "version": "1.0.0",
+  "description": "# 📃 Projeto desenvolvido em treinamento pela plataforma DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Wagner Andrade",
+  "license": "ISC",
+  "dependencies": {
+	"lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
